@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Shridhar Kulkarni @shreeschool
+- 👀 I’m interested in Data driven design, data science applications in solving real world problems...
+- 🌱 I’m currently learning Engineering design ...
+- 💞️ I’m looking to collaborate on Hackathons related to problem solving in data science...
+- 📫 How to reach me 
+-  Mail- Shridhar5697@gmail.com
+-  IG- shree_school
+- ...
+
+<!---
+shreeschool/shreeschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
